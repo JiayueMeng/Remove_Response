@@ -1,11 +1,11 @@
 # Remove_Response
 
-### Data Download
-#### Pacific OBS Networks
+## Data Download
+### Pacific OBS Networks
 **Python files and bash scripts to download data for different networks parallelly with name format "Station_Network":** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/script_for_download_parallelly  
 **Downloaded raw data:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/script_for_download_parallelly/output  
 
-#### Island Networks
+### Island Networks
 **Python files and bash scripts to download data for different networks parallelly with name format "Station_Network":** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/island_networks  
 **Downloaded raw data:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/island_networks/output_BHZ12  
 
@@ -14,6 +14,6 @@
 
 **OBS station lists in Pacific Ocean:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/OBS_pacific_stations
 
-### Modified MATnoise
+## Modified MATnoise
 **MATnoise files after debugging:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/MATnoise-master  
 **PSD plot (a4) with classified means (connections between island and island, ocean and island, and inside networks):** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/MATnoise-master/a4_plot_ccfPSD_classified.m  
