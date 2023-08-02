@@ -1,6 +1,6 @@
-**remove_response:** Automatically attach and remove responses for data, and save the modified files to your output folder. Abnormal file collection and troubleshooting process included. 
-**create_inventory:** Automatically create an inventory for a station for a specific time range. Only need to input Network, Station, and Time.
-**down_sample:** Downsample all data in folders.
+**remove_response:** Automatically attach and remove responses for data, and save the modified files to your output folder. Abnormal file collection and troubleshooting process included.  
+**create_inventory:** Automatically create an inventory for a station for a specific time range. Only need to input Network, Station, and Time.  
+**down_sample:** Downsample all data in folders.  
 
 # Remove_Response
 
