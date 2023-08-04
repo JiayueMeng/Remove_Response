@@ -13,6 +13,7 @@
 **Downloaded raw data:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/island_networks/output_BHZ12  
 
 **All data removed response:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/removed_response_output  
+**Download Progress Tracking:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/removed_response_output/download_progress.txt  
 
 **OBS station lists in Pacific Ocean:** /scratch/tolugboj_lab/Prj4c_OJP/2_Data/OJ/fetch_NOISE-master/OBS_pacific_stations
 
